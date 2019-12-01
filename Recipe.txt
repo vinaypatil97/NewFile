@@ -1,8 +1,6 @@
 Pizaa
 Carrot
-Banana
-Egg
-Finished
+
 
 
 Chicken 
